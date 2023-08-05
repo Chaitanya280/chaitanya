@@ -1,1 +1,1 @@
-# chaitanya
+# intelligent garbage classification
