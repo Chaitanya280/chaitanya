@@ -13,6 +13,6 @@ The Intelligent Garbage Classification System is implemented as a user-friendly 
 The Intelligent Garbage Classification System has the potential to significantly improve waste management practices worldwide. By automating the garbage classification process, it reduces the burden on human operators, enhances recycling efforts, and contributes to a cleaner and healthier environment. With the integration of cutting-edge technologies and user-friendly interfaces, the system empowers individuals and communities to actively participate in sustainable waste management practices, fostering a greener future for generations to come.
 
 <h2> Developed by </h2>
-Sharan vj 
+CH.CHAITANYA 
 
 Contact - <a href="www.linkedin.com/in/sharan-vj"> Linkedin</a> Demo - <a href="https://youtu.be/glW_EfoHDAg"> Youtube </a>
