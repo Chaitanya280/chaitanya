@@ -15,4 +15,3 @@ The Intelligent Garbage Classification System has the potential to significantly
 <h2> Developed by </h2>
 CH.CHAITANYA 
 
-Contact - <a href="www.linkedin.com/in/sharan-vj"> Linkedin</a> Demo - <a href="https://youtu.be/glW_EfoHDAg"> Youtube </a>
